@@ -9,7 +9,7 @@ This project is a mock race series management tool for race series managers.
 This project is in progress and will be more complete as the following "stories" are completed.
 
 
-###SPRINT 1
+### SPRINT 1
 
 As a race manager...
 
@@ -18,7 +18,7 @@ As a race manager...
 1. I want to be able to view all the racers in a race.
 1. I want to be able to view all the races a racer is participating in.
 
-###SPRINT 2
+### SPRINT 2
 
 As a race manager...
 
@@ -26,9 +26,9 @@ As a race manager...
 1. I want to be able to add/remove/edit the list of racers in a series. 
 1. I want to be able to add/remove/edit racers to a race.
 
-###SPRINT 3
+### SPRINT 3
 
-As a racer ...
+As a racer ...  
 
 1. I want to be able to register for a series.
 1. I want to be able to request to participate in a race.
