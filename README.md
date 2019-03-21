@@ -1,5 +1,42 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Race Series App - React Hooks for State Management
+
+In this project, React Hooks API will be utilized as a state management tool. The main hooks used will be `useReducer` and `useContext`.
+The project is a part of a blog post that will be available later this month (March-April 2019). 
+
+This project is a mock race series management tool for race series managers. 
+This project is in progress and will be more complete as the following "stories" are completed.
+
+
+###SPRINT 1
+
+As a race manager...
+
+1. I want to be able to view all the races in a series.
+1. I want to be able to view all the racers in a series. 
+1. I want to be able to view all the racers in a race.
+1. I want to be able to view all the races a racer is participating in.
+
+###SPRINT 2
+
+As a race manager...
+
+1. I want to be able to add/remove/edit the list of races in a series.
+1. I want to be able to add/remove/edit the list of racers in a series. 
+1. I want to be able to add/remove/edit racers to a race.
+
+###SPRINT 3
+
+As a racer ...
+
+1. I want to be able to register for a series.
+1. I want to be able to request to participate in a race.
+1. I want to be able to remove myself from participating in a race. 
+1. I want to be able to remove myself from participating in the series. 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -26,43 +63,3 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
