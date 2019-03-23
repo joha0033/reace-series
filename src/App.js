@@ -205,7 +205,6 @@ class NavigationAuth extends Component {
     super(props)
     this.state = {
       categories: ['Participants', 'Races'],
-
     }
   }
 
